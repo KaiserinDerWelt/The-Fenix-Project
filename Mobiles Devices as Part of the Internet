@@ -1,0 +1,9 @@
+# Native Apps
+A native app is an application that has been written for a specific platform, such as Google Play/Android or iOS, and is used mainly by that platform’s corresponding devices.
+ ative apps are designed with a certain operating system in mind, they are able take advantage of the specific features and software unique to that device. 
+ 
+# Web apps
+eb apps are client-server applications that run in a web browser, web apps can be rendered on various platforms, so long as those platforms have web browser capability- so you can use the same web app on an iPhone, Android, Computer, Smart TV, and many other devices without having to rewrite the source code. 
+
+# Responsive Sites
+Responsive web sites use a “fluid grid” idea, such that the content on the web page adjusts based on the client’s screen resolution.

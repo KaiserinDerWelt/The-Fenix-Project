@@ -1,0 +1,2 @@
+The client is the machine that request the webpage.
+The server is the machine located elsewhere that has that requested file saved inside, and it responds to my request by delivering that file to the computer.

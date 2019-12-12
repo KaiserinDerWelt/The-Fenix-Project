@@ -1,0 +1,32 @@
+body{
+  background-color: #FFC0CB;
+  background-image: linear-gradient(#FFC0CB 43%, yellow);
+
+}
+
+.MainTittle{
+  color: #C71585;
+  font-family: sans-serif;
+
+}
+
+p{
+  color: black;
+  font-family:fantasy;
+  font-size: 18px;
+
+}
+
+.SubTittle{
+  color: #FF1493;
+  font-family: sans-serif;
+  text-decoration: underline;
+  font-size: 18px;
+
+}
+
+.List{
+  color: black;
+  text-decoration: overline;
+  font-family:fantasy;
+}

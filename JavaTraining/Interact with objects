@@ -1,0 +1,7 @@
+Why use objects as part of other objects?
+
+It is good to modify the blue print of a class without affecting the other class. Example:
+
+Clock--> Battery
+
+"Each attribute is also an OBJECT"

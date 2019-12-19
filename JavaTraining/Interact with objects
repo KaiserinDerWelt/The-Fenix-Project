@@ -5,3 +5,14 @@ It is good to modify the blue print of a class without affecting the other class
 Clock--> Battery
 
 "Each attribute is also an OBJECT"
+
+Independent objects used as a part of other objects need a way to communicate.
+Since they’re not one and the same, they can’t magically understand what the other object wants or needs without communicating. 
+
+Objects can have attributes that are objects.
+
+These objects also have their own independent blueprint (class), attributes, behaviors, and access.
+
+Objects communicate with one another by sending messages.
+
+Associating objects with other objects allows you to more easily adapt and make changes to your system. 

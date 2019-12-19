@@ -15,4 +15,4 @@ These objects also have their own independent blueprint (class), attributes, beh
 
 Objects communicate with one another by sending messages.
 
-Associating objects with other objects allows you to more easily adapt and make changes to your system. 
+Associating objects with other objects allows you to more easily adapt and make changes to your system.  

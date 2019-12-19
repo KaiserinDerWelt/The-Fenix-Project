@@ -1,0 +1,2 @@
+Abstraction
+Hides all but the relevant data about an object in order to reduce complexity and increase efficiency.

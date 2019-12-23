@@ -1,0 +1,9 @@
+Constant
+A variable with a constant value is called a constant. 
+Constants are described by three components: name, value, and type. 
+The only difference is that once you set it, the value of a constant cannot be changed.
+
+To declare a constant in Java, you need to use the keyword FINAL
+
+Example:
+Final Int Pi=3.1416;

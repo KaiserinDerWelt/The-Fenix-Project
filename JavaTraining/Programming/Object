@@ -1,0 +1,11 @@
+In programming an object is called class.
+
+This is how a class in Java looks like
+
+class CatBreeds {
+// functionality of the class
+String Name;
+String Origin;
+Double AverageYearsOfLife;
+
+}

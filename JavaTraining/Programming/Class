@@ -1,0 +1,11 @@
+Here we gonna learn how to use a class.
+
+Class fields are like a template on an online bookstore:
+no matter what book you look for, the same information will pop up (title, author, number of pages, etc.).
+
+To work with a class, you need to create a concrete object of that class. In other words, you need a specific object, like a particular book (Alice in Wonderland). 
+That specific book is called an instance of a class! As its name implies, the process is called instantiating or initializing an object. 
+
+INSTANTIATION OF AN OBJECT
+
+new Book("Coding is art","Becky James",425);

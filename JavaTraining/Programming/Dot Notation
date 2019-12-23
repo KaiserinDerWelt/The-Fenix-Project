@@ -1,0 +1,11 @@
+Access fields by Dot Notation
+
+It means you need to write the name of an instance or object followed by an attribute name of interest.
+
+instanceVariableName.attributeName
+
+myBook.title = "Coding is Art"
+myBook.author = "Becky James";
+myBook.numberOfPages = myBook.numberOfPages + 10;
+
+Dot NOTATION PROVIDES ACCESS TO FIELDS!!!

@@ -1,0 +1,7 @@
+PWD : Show directory location.
+ls: Show directory content.
+cd: Move to a specific directory (Exaple: cd Documents)
+mkdir: Create new folder (Example mkdir Images)
+touch: Create file    (Example touch myfile.txt)
+
+

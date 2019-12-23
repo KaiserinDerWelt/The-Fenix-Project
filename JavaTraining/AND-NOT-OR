@@ -1,0 +1,5 @@
+AND: Must acomplish both conditions.
+
+OR: Must acomplish one or other condition.
+
+NOT: Can be NOT FALSE or NOT TRUE.

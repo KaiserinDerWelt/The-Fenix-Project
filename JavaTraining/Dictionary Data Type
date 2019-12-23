@@ -1,0 +1,11 @@
+A Dictionary Data Type stores key/value.
+
+You associate word/definition pairs with a dictionary.
+
+Are used to store data that gonna be looked up over and over.
+
+With the map container, the word is the key, and the definition is the associated object that you want to store.
+
+Dictionaries can be used to store numbers, strings, and more! 
+
+Size is dynamic, and can shrink/grow in real time.

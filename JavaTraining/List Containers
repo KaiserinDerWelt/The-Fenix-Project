@@ -1,0 +1,8 @@
+The list data type is similar to the array.
+List is an ordered container of objects.
+The list stores its objects in buckets but does not impose a fixed number of buckets. 
+
+List types
+1) ORDERED LIST: Which spot each element is placed on the list matters.
+2) UNORDERED LIST: Group these items together, but it doesn't matter which one comes first, last, or fifteenth.
+

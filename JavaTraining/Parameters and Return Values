@@ -1,0 +1,10 @@
+Parameters
+Without them a function can not make the result.
+To have a good result you must set the right parameters for the function.
+Functions also give messages through what’s called return values.  
+
+
+Think about programs you use on a daily basis, especially apps on your phone.  
+Do you have to give them any information? Do they give you information in return?
+
+Language app: I provide the translation and it displays if my result is right or not.

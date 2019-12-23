@@ -3,5 +3,9 @@ ls: Show directory content.
 cd: Move to a specific directory (Exaple: cd Documents)
 mkdir: Create new folder (Example mkdir Images)
 touch: Create file    (Example touch myfile.txt)
+open: Open file (Example: open myfile.txt)
+cp: Copy directory  from a place to another (Example: Copy -R ~/Desktop/code-project ~/Desktop/code-project-2 )
+grep: Helps to find a certain text in a specific file (Example: grep art hopper.txt) */The word after the command gonna be find in the specific file*/
+mv: Move.
 
 

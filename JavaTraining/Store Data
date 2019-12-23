@@ -1,0 +1,14 @@
+Data is stored in VARIABLES.
+
+Variables are like storage boxes where you can put the data you want to store.
+
+When you, the programmer, create a variable, the computer reserves a space for it in computer memory.  
+
+In this case, the computer will create an empty box in one of the lockers it's already dedicated for your program. 
+
+Variables are stored in specific locations in computer memory. 
+
+Variables have different types. 
+
+Variables have names.
+

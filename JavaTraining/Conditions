@@ -1,0 +1,7 @@
+Conditions are used to take decisions.
+
+Conditions are also true/false and they use the statements if/else to perform decisions.
+
+If checks a condition.  If the condition is true, it performs a specified action.
+If the condition is false, it performs a different action. 
+This second action is specified by else. 

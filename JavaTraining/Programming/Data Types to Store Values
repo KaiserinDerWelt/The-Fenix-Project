@@ -1,0 +1,6 @@
+Integers, which are whole numbers, like the numbers you use to count (1, 2, 3).
+
+Decimals, like those you may use to store money values (2.50 or 5.99). 
+Double: 12 decimals.
+Float: 6 decimals.
+Double is more precise than float.

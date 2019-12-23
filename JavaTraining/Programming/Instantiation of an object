@@ -1,0 +1,7 @@
+To can use a class in java is necessary to instantiate the class as an object.
+I must follow this sintaxys to archieve it:
+
+VariableType VariableName = Keyword ClassName("FIELD VALUES");
+An object is called an instance of a class. 
+
+A common way to access fields in many programming languages is using what's called a dot notation.

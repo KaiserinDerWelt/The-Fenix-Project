@@ -1,5 +1,5 @@
 AND: Must acomplish both conditions.
 
-OR: Must acomplish one or other condition.
+OR: Must acomplish one or other condition. Both statements can be TRUE.
 
 NOT: Can be NOT FALSE or NOT TRUE.

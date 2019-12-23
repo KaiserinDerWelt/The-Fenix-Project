@@ -1,0 +1,8 @@
+Array
+Is a group of data of the same type.
+Must have a name.
+Contains elements.
+Must be sized when created.
+
+
+Array [0][1][2][3][4] --> To access to an element of an array we must do it by the index number.

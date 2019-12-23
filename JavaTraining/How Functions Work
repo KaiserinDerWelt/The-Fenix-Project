@@ -2,8 +2,13 @@ We need to tell computers what to do and how to do, this is the job of the progr
 
 "NO ONE WANT'S TO CODE WHAT ALREADY EXISTS"
 
-Instead, imagine you could take the group of instructions, then reuse them again and again. Well, this is what functions do! 
+Instead, imagine you could take the group of instructions, then reuse them again and again. 
+Is what functions do! 
 
- A function allows computer code (your instructions) to be packaged, named, and reused wherever you need it. It wraps code and logic up altogether and assigns it a name.
+A function allows computer code (your instructions) to be packaged, named, and reused wherever you need it.
  
- Then, all you have to do is call the function’s name, and ta-da! ✨I
+It wraps code and logic up altogether and assigns it a name.
+ 
+Then, all you have to do is call the function’s name, and ta-da! ✨I
+
+Functions must be focused in acomplishing a specific task. Example "Print Function"

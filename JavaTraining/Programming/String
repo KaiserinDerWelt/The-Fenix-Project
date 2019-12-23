@@ -1,3 +1,5 @@
 String include words.
 
 String Text= "This is a string";
+
+Strings joined together are called concatenation.

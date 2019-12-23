@@ -1,0 +1,6 @@
+while loops are used when you know the final state you’d like to achieve, but you don’t know how many iterations (repeats) you’ll need to get there.
+
+Keep going and going until you’ve reached the end condition!!
+
+WHILE Loop: Should continue repeating BUT  is not infinite till the condition is acomplish.
+

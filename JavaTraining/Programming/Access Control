@@ -6,3 +6,15 @@ CONTROL LEVELS
 2) Protected: visible to the package and all its subclasses
 3) Package-Protected:typically visible only to the package they are in (default settings)
 4) Private: only accessible in the context in which they are defined (inside the class it is located)
+
+
+class Unicorn {
+    // properties
+    private int height = 170;
+    public String power = "Double.infinity";
+    // methods
+    private static void sleep() {
+    }
+    public static void run() {
+}
+}

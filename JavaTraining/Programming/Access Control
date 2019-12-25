@@ -1,0 +1,8 @@
+The implementation of those frameworks is far beyond what the developers who use them can see and utilize. 
+That’s done by restricting access to the details of implementation, also known as implementing access control.
+
+CONTROL LEVELS
+1) Public: visible to the world and therefore the least restrictive
+2) Protected: visible to the package and all its subclasses
+3) Package-Protected:typically visible only to the package they are in (default settings)
+4) Private: only accessible in the context in which they are defined (inside the class it is located)

@@ -6,3 +6,18 @@ Each variable is only available (and accessible) in the context within which it 
 The scope of a variable can be local as well as global, depending on where a variable is declared. 
 A global variable can be available to all the classes and methods within a program while.
 A local variable might only be available within the method that it is declared in.
+
+public class MyScopes { //GLOBAL
+    static String root = "I'm available to all lines of code within my context";
+
+        public static void main(String[] args) { //LOCAL
+           String spy = "I'm a spy";
+           //TODO Remove the curly brackets { and }
+           
+                String insideCurlyBrackets="I'm an insider";
+          
+           System.out.println(root); 
+           System.out.println(spy);
+           System.out.println(insideCurlyBrackets);                   
+          }
+}

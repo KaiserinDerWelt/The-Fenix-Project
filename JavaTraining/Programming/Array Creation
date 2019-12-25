@@ -1,0 +1,9 @@
+List for fixed amount of elements.
+
+// Declare the variable
+int[] HoursOfStudyPerWeek;
+
+// Create the array and assign it to the variable
+HoursOfStudyPerWeek=new int[10];
+
+Where 10 is the lenght of the array!

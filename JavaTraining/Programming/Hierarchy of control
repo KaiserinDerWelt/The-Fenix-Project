@@ -1,0 +1,14 @@
+
+public class PublicClass {
+    public boolean publicProperty = true;
+    int internalProperty = 0; //default at package-private
+    private String fileprivateProperty = "Hello!"
+    private static void privateMethod() {
+    }
+}
+
+n the example above, the class is declared as public . 
+Since the class is the containing element, this means that all elements of that class may be of the same or lesser level of exposure. 
+In this case, it includes all levels.
+
+f you declare a class as private, its elements can only be package-private or private:

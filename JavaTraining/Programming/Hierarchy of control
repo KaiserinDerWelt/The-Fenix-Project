@@ -12,3 +12,5 @@ Since the class is the containing element, this means that all elements of that 
 In this case, it includes all levels.
 
 f you declare a class as private, its elements can only be package-private or private:
+
+A top-level class cannot be marked private.

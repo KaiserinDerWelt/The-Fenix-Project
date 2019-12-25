@@ -18,3 +18,8 @@ String [] Songs = new String [6]; [0][1][2][3][4][5]
 cupsOfCoffeePerDayOfTheWeek[4]=3; 
 
 System.Out.PrintIn(cupsOfCoffeePerDayOfTheWeek[0]);
+
+// Create a multidimensional array to manage all the rows of a theater
+String[][] myTheatreSeats=new String[30][12];
+// Row 10, Seat 6. Don't forget that the index starts at 0!
+myTheatreSeats[9][5]="James Logan";

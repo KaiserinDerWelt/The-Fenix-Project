@@ -18,3 +18,15 @@ class Unicorn {
     public static void run() {
 }
 }
+
+
+
+The control levels can be assigned to class elements as well as classes:
+
+public class PublicClass {
+
+}
+
+private class PrivateClass {
+
+}

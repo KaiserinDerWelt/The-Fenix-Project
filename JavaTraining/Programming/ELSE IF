@@ -1,0 +1,10 @@
+
+if(condition1) {
+// instructions
+}
+else if(condition2) {
+// instructions
+}
+else {
+// instructions
+}

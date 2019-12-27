@@ -1,0 +1,19 @@
+A function as a block of code with a name that performs a service. 
+
+When a function is located inside a class, it is called a method. 
+
+package JavaHello;
+
+/** This is an implementation of the traditional "Hello world!" message
+ * 
+ * @author KaiserinDerWelt
+ *
+ */
+public class HelloWorld {
+	
+	/** This is where the program starts */ /*Main Function*/
+	public static void main(String[] args) {
+		System.out.println("Hello World!");
+	}
+
+}

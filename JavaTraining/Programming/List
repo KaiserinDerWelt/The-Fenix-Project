@@ -1,0 +1,11 @@
+Create a list:
+
+List<Integer> myList = new ArrayList<Integer>();
+myList.add(7);
+myList.add(5); //-> [7,5]
+
+List<Type> NameOfThelist = new TypeOfList<Type>(); //Syntax
+
+NameOfTheList.add(5);
+NameOfTheList.add(4);
+NameOfTheList.add(3);

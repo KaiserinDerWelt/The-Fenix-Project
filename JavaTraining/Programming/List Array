@@ -1,0 +1,21 @@
+Syntax
+List<Type> NameOfTheList = new TypeOfset<String>();
+How to add elements:
+NameOfTheList.add("ElementOne");
+NameOfTheList.add("ElementTwo");
+
+How to remove elements:
+NameOfThelist.remove("ElementTwo");
+
+How to print lenght of a list:
+
+System.Out.PrintIn(NameOftheList.size());
+
+Set<String> ingredients = new HashSet<String>();
+ingredients.add("eggs");
+ingredients.add("sugar");
+ingredients.add("butter");
+ingredients.add("salt");
+ingredients.remove("butter");
+
+System.out.println(ingredients.size());

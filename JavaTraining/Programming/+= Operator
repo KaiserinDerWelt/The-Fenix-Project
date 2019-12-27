@@ -1,0 +1,11 @@
+
+int x = 10;
+x += 12;  //It means that after line 2 we gonna add 12.
+final int y = x/4;
+x = x + y;
+
+
+x= 10
+After line two, 12 is added to X, so x=22.  
+y = 22/4 = 5.5 
+x = 22 + 5.5 = 27.5 

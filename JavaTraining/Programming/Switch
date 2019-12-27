@@ -1,0 +1,19 @@
+Switch uses what's called cases to compare some value to and make a decision whether an associated block of code needs
+to be executed. 
+Let's rewrite our if/else if/else example using a switch:
+
+public static void main(String[] args) {
+    switch(args.length) {
+        case 0: // no argument has been sent
+            sayHelloTo("world");
+            break;
+        case 1: // user has provided one argument on the terminal
+            sayHelloTo(args[0]);
+            break;
+        case 2: // user has provided 2 arguments
+            sayHelloTo(args[0] + "-" + args[1]);
+            break;
+        default: // user has provided more than we can manage!
+            System.out.println("Sorry, I don't know how to manage more than 2 names!");
+    }
+}

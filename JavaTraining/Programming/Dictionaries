@@ -1,0 +1,3 @@
+
+Dictionaries are not lists, so they are neither ordered or unordered. 
+Only dictionaries have key/value pairs.  

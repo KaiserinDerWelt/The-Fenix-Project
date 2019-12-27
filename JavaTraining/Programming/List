@@ -9,3 +9,7 @@ List<Type> NameOfThelist = new TypeOfList<Type>(); //Syntax
 NameOfTheList.add(5);
 NameOfTheList.add(4);
 NameOfTheList.add(3);
+
+To print a list:
+
+System.out.PrintIn(mylist.size()); //myList.size() Use myList.size()  Method.

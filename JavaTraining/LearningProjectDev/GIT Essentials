@@ -1,0 +1,7 @@
+Git on Eclipse
+
+1) Press the button GIT on Open Perspective.
+2) Choose one of the three options:
+  -Add an existing GIT Repository: Upload a repository that was downloaded and it's located in the computer.
+  -Clone a GIT Repository: Copy a GIT Repository from a website.
+  -Create a new local GIT repository: New Repository

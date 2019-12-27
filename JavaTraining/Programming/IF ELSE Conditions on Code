@@ -1,0 +1,30 @@
+package conditions;
+
+/** This displays:
+* - a personalized Hello message if an argument has been sent when running the program
+* - The traditional "Hello world!" message if not
+* @author The OpenClassrooms Education team
+*
+*/
+public class ConditionalHello {
+   
+    /** This is where the program starts
+    *
+    * @param args arguments sent on the command line
+    */
+    public static void main(String[] args) {
+        if (args.length==1) { . // if arguments have a lenght equal to 1 say hello to arg [0]
+            sayHelloTo(args[0]);
+        } else {               //Other arguments say hello to world
+            sayHelloTo("world");
+        }
+    }
+
+    /** prints a hello message to the provided recipient
+    *
+    * @param recipient
+    */
+    private static void sayHelloTo(String recipient) {
+        System.out.println("Hello " + recipient + "!");
+    }
+}

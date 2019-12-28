@@ -1,0 +1,10 @@
+The initialization is an expression that initializes the loop. It generally declares and assigns an iterator. 
+In our example, we declare an iterator named i of type int with a value of 5.
+
+The termination is an expression that is evaluated before each loop execution.
+When it evaluates to false, the loop stops. In our example, the termination expression is i<5, which means the loops stops when i reaches the value of five.
+
+An Increment is an expression that is evaluated each time an iteration is performed.
+In our example, the increment is i++. This means we add 1 to the value of i each time we go through our loop.
+
+The list of statements is located between{ and }. It is the code that is run each time the loop is executed.

@@ -1,0 +1,11 @@
+
+The following is important to keep in mind: using while loops can cause a program to crash.
+☠️ When the expression remains true forever, the program gets stuck in the loop, causing something called an infinite loop:
+
+boolean theSunIsUp = true;
+while (theSunIsUp) {
+    print ("Stay awake...forever!"); 
+    // theSunIsUp never changes
+}
+// we never reach this
+print ("Go to sleep!");

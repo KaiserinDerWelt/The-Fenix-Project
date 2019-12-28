@@ -1,0 +1,13 @@
+The exception handling mechanism is the default error-management mechanism in Java. It consists of throwing an event that interrupts the normal flow of execution when a problem occurs. If this event is caught, the problem can be dealt with. 
+Otherwise, the program crashes with a stack trace that describes what happened.
+
+By catching an error (even though you did nothing), you prevented the app from crashing.
+
+try {
+// some code
+// a function to try that can generate an error
+// more code
+}
+catch (ExceptionName e) {
+// code to execute in case the trial didn't work out and an error happened
+}

@@ -13,3 +13,5 @@ do{
     print ("Push up!");
     pushUpGoal -= 1;
 } while(pushUpGoal > 0);
+
+To be executed at LEAST ONCE!!

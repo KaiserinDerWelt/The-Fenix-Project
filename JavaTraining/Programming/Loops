@@ -1,0 +1,32 @@
+Loops:
+A loop is a technique that allows you to repeat one or more instructions
+Without having to retype the same set of instructions.
+
+There are two types of loops:
+
+Enumerated loops = FOR LOOPS = are used when you know in advance how many times you want to loop.
+
+
+With these, you can provide the number of iterations to be performed:
+
+As an integer value
+
+As the result of an expression that generates an integer value 
+https://openclassrooms.com/en/courses/5667431-learn-programming-with-java/5907198-use-the-right-loop-to-repeat-tasks#/id/r-5928282
+
+For loop with INTEGER VALUE
+
+for (int i=0; i<5;i++) {
+    System.out.println("Clap your hands!");
+}
+
+i VARIABLE IS RESPONSIBLE OF THE COUNT OF EXECUTIONS.
+
+The general syntax of For loop is:
+
+for (initialization; termination; increment) {
+    // list of statements 
+}
+
+Iterator variables can have any name. 
+For example, i, j, k are common for very general purposes. Otherwise, it's best to use descriptive names, as always!

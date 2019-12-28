@@ -1,0 +1,39 @@
+While loop
+It can be interpreted as "as long as the logical expression is true, repeat the instructions."
+
+while (logicalExpression) {
+// list of statements
+}
+
+
+1)The program verifies that  logicalExpression is true
+
+2)If it is false: the instructions are ignored. You do not even enter the body of the loop located between {  and  }.
+
+3)If it is true: the list of statements inside { and } are executed.
+
+4)Once the instructions are executed, you return to step one.
+
+int numberOfTrees = 0;
+
+while (numberOfTrees < 10) {
+    numberOfTrees += 1;
+    System.out.println("I planted " + numberOfTrees + " trees");
+}
+
+System.out.println("I have a forest!");
+
+
+OUTPUT:
+
+I planted 1 trees
+I planted 2 trees
+I planted 3 trees
+I planted 4 trees
+I planted 5 trees
+I planted 6 trees
+I planted 7 trees
+I planted 8 trees
+I planted 9 trees
+I planted 10 trees
+I have a forest!

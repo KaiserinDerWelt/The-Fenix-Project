@@ -1,0 +1,15 @@
+Do-while loop is very similar to the first one, however, the condition is placed at the end of the corresponding block of code.
+This way, the block of code will always be executed at least once.
+
+Do{
+//Instructions here!
+
+}While ()
+
+
+
+int pushUpGoal = 10;
+do{
+    print ("Push up!");
+    pushUpGoal -= 1;
+} while(pushUpGoal > 0);

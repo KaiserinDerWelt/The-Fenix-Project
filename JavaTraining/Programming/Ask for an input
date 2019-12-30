@@ -1,0 +1,7 @@
+ public static String askForUrl() {
+        Scanner readInput=new Scanner(System.in);
+        System.out.println("Please enter a valid URL");
+        String url=readInput.nextLine(); 
+        readInput.close();
+        return url;
+    }

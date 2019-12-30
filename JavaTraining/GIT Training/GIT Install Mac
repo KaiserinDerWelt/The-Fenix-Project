@@ -1,0 +1,11 @@
+
+1) Download GIT on the official GIT Website
+
+2)Open command line
+
+git config --global user.name "YourUserName"
+git config --global user.mail example@gmail.com
+
+3)Check credentials:
+
+git config --list

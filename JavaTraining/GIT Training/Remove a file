@@ -1,0 +1,5 @@
+Git is designed to allow you to turn back time. 
+Git has commands to fix mistakes
+most mistakes can be fixed in a few minutes and a couple of keystrokes.
+
+ git rm --cached <filename>

@@ -1,0 +1,5 @@
+//Let's uncommit
+//The no-edit  option means you don't want to add a commit message.
+//The latest commit reverses it
+
+git revert HEAD --no-edit 

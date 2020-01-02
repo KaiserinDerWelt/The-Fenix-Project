@@ -19,3 +19,5 @@ public static void VariableName(TypeData Parameter, DataType Parameter){
 ParameterName (InputOne,InputTwo); //Define parameters
 
 }
+
+//Parameters are the variables declared in a function. The values passed to that function are called arguments.

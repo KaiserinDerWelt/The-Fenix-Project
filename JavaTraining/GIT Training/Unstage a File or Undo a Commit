@@ -1,0 +1,6 @@
+
+git reset <filename> //Remove file from the staging area
+/*Example*/
+git reset CuteDogs.html
+
+git reset --soft HEAD^//Remove and commit to staged files

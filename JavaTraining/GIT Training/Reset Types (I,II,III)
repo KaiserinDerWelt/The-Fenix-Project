@@ -1,0 +1,24 @@
+//Git reset can save your life - or become a nightmare.
+
+git reset --soft HEAD~1
+
+// Rewind a commit
+
+git reset
+gir reset --mixed
+
+//Start from scratch!! CAUTION: This command is very dangerous!!
+
+git reset --hard
+
+✅ DO use git reset --hard 
+
+You have only one branch on your project that you just started, and you are tracking your files pretty consistently.
+
+You literally want to start over and get rid of everything.
+
+❌ DON'T use git reset --hard
+
+You are working on a project with a team.
+
+You share a branch with multiple team members.

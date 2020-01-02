@@ -1,0 +1,3 @@
+//Shows the last commits in chronological order
+
+git log

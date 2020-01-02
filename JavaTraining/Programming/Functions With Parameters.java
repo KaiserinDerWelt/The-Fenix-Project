@@ -8,7 +8,7 @@ public static void displayPerimeter(int length, int width) {
 
 //Parameters are variables listed in the function declaration that are specified inside () by the name and type. 
 displayPerimeter(10, 11); // -> 42
-displayPerimeter(2, 2); // -> 8
+ displayPerimeter(2, 2); // -> 8
 
 //Each value is assigned to a parameter in the order they are defined. (Lenght, Width)
 //Parameters are the input the function needs in order to operate.

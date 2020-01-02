@@ -18,3 +18,6 @@ int sumOfSmallNumbers = sum(3,7);
 System.out.println(sumOfSmallNumbers); // -> 10
 int sumOfLargerNumbers = sum(sumOfSmallNumbers,999);
 System.out.println(sumOfLargerNumbers); // -> 1009
+
+/*A return value is a result of the function's execution. 
+It can be returned to the block of code that called the function and then used as needed.*/

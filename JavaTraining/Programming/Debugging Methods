@@ -1,0 +1,16 @@
+Debugging means to eliminate bugs.
+Bugs are mistakes in the logic of a program and are both algorithmic and business logic mistakes.
+
+Check Code Manually
+- Small scale projects.
+- For simple problems.
+
+Random Checks:
+This is the tried and true method which is effective on a small scale when you need to fix simple issues. 
+And let's face it, you'll use it all the time for quick checks, and it's fine. 
+The important part is not using it as a tool to ensure the code quality. 
+The most common way of implementing this method is using print function.
+They may cause crashes or produce incorrect results. 
+Incorrect results are often more dangerous than crashes as they may continue silently happening without an immediate effect.
+
+By the way, using print function for debugging is also called logging.

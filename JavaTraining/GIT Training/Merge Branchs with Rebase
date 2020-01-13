@@ -1,0 +1,8 @@
+Never use git rebase on a public repository or a branch that others are working on.
+
+Git rebase adds one branch on top of the other with new commits.
+
+Interactive git rebase can be used to manipulate commit history,
+change commit messages, combine (squash) commits together, and specify which commits you would like to include in the rebase.
+
+git rebase master

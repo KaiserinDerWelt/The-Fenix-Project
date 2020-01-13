@@ -1,0 +1,5 @@
+The debugging tools and processes you use will depend on the programming language, platform, and environment you are utilizing. 
+However, these tools share many common concepts.
+
+Once a bug is eliminated, there might be a chance you planted some new ones. 
+A cure to that is to stay alert, pay attention, and write tests! 💪

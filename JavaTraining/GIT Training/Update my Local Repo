@@ -1,0 +1,9 @@
+Git fetch
+Git merge (Commit to the section of the masterbranch)
+
+If you are sure that you not gonna mess up the code you can use both comands together by using:
+
+Git Pull
+
+Git Pull is a combination of  git fetch and  git merge in one command. Let's backtrack and try the update again using the git pull command.
+Let's say that you have the following commits on the master branch in your local repository:

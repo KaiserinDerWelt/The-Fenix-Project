@@ -1,0 +1,36 @@
+There are different ways to test your functions. They can be classified in two categories:
+
+*Using helping code
+
+*Using automated processes
+
+https://openclassrooms.com/en/courses/5667431-learn-programming-with-java/5907767-test-that-a-function-does-what-it-says#/id/r-5907685
+
+Helping code is a set of functions designed to test your main functions. Implementing helping code is done within the application itself. For example, if you have a class that would do simple math, you could define something like this:
+
+class MagicMath {
+public static int sum(int a, int b) {
+return a + b;
+}
+
+public static int sub(int a, int b) {
+return a - b;
+}
+
+}
+
+// test sum
+if (MagicMath.sub(1,5) == 6) {
+System.out.println("Sum works Ok");
+}
+else {
+System.out.println("Sum doesn't works");
+}
+
+// test sub
+if (MagicMath.sub(10,8) == 2) {
+System.out.println("Sub works Ok");
+}
+else {
+System.out.println("Sub doesn't works");
+}

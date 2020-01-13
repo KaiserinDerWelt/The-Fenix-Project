@@ -1,0 +1,7 @@
+The testing can be performed more efficiently using automated processes. These are done using dedicated tools that enable you to create a test layer. 
+There are two categories of app testing:
+
+Functional tests can be programmatic (automated) or strategic (manual), and they are used to test a complete feature of an application.
+
+Unit tests are programmatic tests that are used to validate a small piece of code, typically a method or a function.  Similar to what we did using helping code earlier in this chapter, except formally formatted an
+d isolated into a separate application. 

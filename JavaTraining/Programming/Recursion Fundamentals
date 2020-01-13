@@ -1,0 +1,10 @@
+Recursionn technical terms, recursion is an action that's initialized within itself.
+It keeps descending down layer upon layer, until a condition is met and then bubbles back up to the first layer.
+
+5! = 5 * 4 * 3 * 2 * 1 
+
+4! = 4 * 3 * 2 * 1
+
+3! = 3 * 2 * 1
+
+Repeats itself from the starting point!!

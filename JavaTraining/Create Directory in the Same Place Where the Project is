@@ -1,0 +1,4 @@
+//Example
+String Location = System.getProperty("user.dir");
+//User. dir is the appropiate location to put a directory in the same plae where the project is located.
+user.dir

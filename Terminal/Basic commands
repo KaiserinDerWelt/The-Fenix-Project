@@ -7,6 +7,7 @@ open: Open file (Example: open myfile.txt)
 cp: Copy directory  from a place to another (Example: Copy -R ~/Desktop/code-project ~/Desktop/code-project-2 )
 grep: Helps to find a certain text in a specific file (Example: grep art hopper.txt) */The word after the command gonna be find in the specific file*/
 mv: Move.
-clear: Cleans up the command line :)
+clear: Cleans up the command line
+code .  : Opens VSCode
 
 

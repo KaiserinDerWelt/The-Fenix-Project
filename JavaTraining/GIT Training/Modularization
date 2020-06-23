@@ -1,2 +1,5 @@
 Include  external libraries to my repo.
 This is archieved by subtrees or submodules.
+#Subtrees
+
+git subtree add -prefix=forestlibraries/ forestlibraries master --squash

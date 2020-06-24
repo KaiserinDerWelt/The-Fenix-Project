@@ -9,5 +9,6 @@ grep: Helps to find a certain text in a specific file (Example: grep art hopper.
 mv: Move.
 clear: Cleans up the command line
 code .  : Opens VSCode
+host: displays host name
 
 

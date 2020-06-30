@@ -1,3 +1,22 @@
 What Is a Domain Model? 
 A domain model is a conceptual representation of the major items that must be understood to build a system the customer wants. 
-You can think of it as the foundational design of a system, but one that both stakeholders and developers can understand.  
+You can think of it as the foundational design of a system, but one that both stakeholders and developers can understand. 
+
+#Domain driven design
+
+##Objective:
+* Extract user needs using domain-driven design processes.
+* Formalize user needs into a domain model. 
+##Facts
+If you want to build software you need to collaborate with the people using it.
+
+#Domain Model Uses
+Focus in the Most important of the System
+Map out interactions.
+Describe the System needs.
+„Technical implementations change over time“
+
+##Domain Model Advantages
+Adapt implementations easily.
+Minimize implementation  effects.
+Let us focus in the Model.

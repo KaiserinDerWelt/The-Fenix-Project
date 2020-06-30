@@ -1,0 +1,11 @@
+Event storming is a workshop of stakeholders and developers to discuss how the system will work, from a user's perspective.
+
+Have a purpose for the event storming session.
+
+Pick the appropriate people, a good time, and a big-enough room.
+
+Start with one idea, and let it evolve.
+
+Keep going; don’t dive into implementation details.
+
+All this new found knowledge is recaptured into your domain model.
